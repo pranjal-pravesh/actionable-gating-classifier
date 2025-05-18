@@ -1,0 +1,706 @@
+[
+  {
+    "text": "Hey Assistant, what's the current temperature in Bangalore?",
+    "label": "actionable"
+  },
+  {
+    "text": "Arre yaar, this traffic jam is never going to end, no?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, remind me to call Papa at 7 PM tonight.",
+    "label": "actionable"
+  },
+  {
+    "text": "That new biryani place everyone is talking about is actually quite average.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, play some latest Bollywood songs for me.",
+    "label": "actionable"
+  },
+  {
+    "text": "My cousin is coming over from Delhi next week, should be fun.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Okay Google, set a timer for 15 minutes, na.",
+    "label": "actionable"
+  },
+  {
+    "text": "This inverter is not working properly again, I think.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, add 'buy curd and milk' to my grocery list.",
+    "label": "actionable"
+  },
+  {
+    "text": "Achcha, so you are saying the match starts at 8?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Hey Siri, what's the score of the India vs Australia cricket match?",
+    "label": "actionable"
+  },
+  {
+    "text": "Mummy made amazing poha for breakfast today.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, tell me a good joke, yaar.",
+    "label": "actionable"
+  },
+  {
+    "text": "I really think they should fix this pothole on the main road.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Google, translate 'how are you' into Marathi for me.",
+    "label": "actionable"
+  },
+  {
+    "text": "The prices of vegetables have gone up so much lately.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, find me a good recipe for chicken curry, simple one.",
+    "label": "actionable"
+  },
+  {
+    "text": "He's always so busy with his office work, never has time.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, what's on my calendar for tomorrow morning?",
+    "label": "actionable"
+  },
+  {
+    "text": "The monsoon this year was quite heavy, no?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, turn on the living room lights, please.",
+    "label": "actionable"
+  },
+  {
+    "text": "My mobile data seems to be finishing very fast these days.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Hey Google, navigate to the nearest petrol pump.",
+    "label": "actionable"
+  },
+  {
+    "text": "These new online payment apps are very convenient, really.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, what is the capital of France?",
+    "label": "actionable"
+  },
+  {
+    "text": "Rohan, pass me the remote, yaar, that ad is so irritating.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, call Mom on speaker.",
+    "label": "actionable"
+  },
+  {
+    "text": "The new Metro line construction is causing a lot of dust here.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, what time is it in London right now?",
+    "label": "actionable"
+  },
+  {
+    "text": "This tea is a bit too sweet for my liking today.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Google, send a WhatsApp message to Anil: 'Are you free this evening?'",
+    "label": "actionable"
+  },
+  {
+    "text": "I need to remember to recharge my FASTag before the trip.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, read my latest text messages to me.",
+    "label": "actionable"
+  },
+  {
+    "text": "The power cuts have increased in our area lately.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, set an alarm for 6:30 AM weekdays.",
+    "label": "actionable"
+  },
+  {
+    "text": "The plot of that new web series is getting quite confusing now.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, how many kilometers from Mumbai to Pune?",
+    "label": "actionable"
+  },
+  {
+    "text": "My parents are planning to visit us next month for Diwali.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Okay Google, play relaxing flute music for me.",
+    "label": "actionable"
+  },
+  {
+    "text": "This air cooler is not very effective in this humidity.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, can you recommend some good Indian restaurants nearby?",
+    "label": "actionable"
+  },
+  {
+    "text": "Sharmaji's son got a very good job in America, they were telling.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, add 'dentist appointment' to my calendar for Tuesday at 4 PM.",
+    "label": "actionable"
+  },
+  {
+    "text": "Arre, careful with that glass, beta, it might fall!",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, tell me about the history of the Taj Mahal.",
+    "label": "actionable"
+  },
+  {
+    "text": "I think it's going to rain heavily today, the clouds are very dark.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Google, what is 500 Indian Rupees in US Dollars?",
+    "label": "actionable"
+  },
+  {
+    "text": "This tailor always takes so long to stitch the clothes.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, create a note: 'Remember to pick up dry cleaning'.",
+    "label": "actionable"
+  },
+  {
+    "text": "The kulfi at that corner shop is just out of this world.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Hey Siri, find directions to Express Avenue Mall.",
+    "label": "actionable"
+  },
+  {
+    "text": "Our society's Watchman is very diligent, always alert.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, increase the volume a bit.",
+    "label": "actionable"
+  },
+  {
+    "text": "The Wi-Fi password for this cafe is written on the board, I see.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Google, how do you say 'thank you' in Telugu?",
+    "label": "actionable"
+  },
+  {
+    "text": "This particular brand of basmati rice cooks really well.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, what movies are playing near me this weekend?",
+    "label": "actionable"
+  },
+  {
+    "text": "Beta, did you finish your project work yet or not?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, remind me to take my medicines after dinner.",
+    "label": "actionable"
+  },
+  {
+    "text": "The online shopping sale was not as good as I expected.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, can you spell 'onomatopoeia' for me?",
+    "label": "actionable"
+  },
+  {
+    "text": "That painting in their living room is quite modern, no?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Okay Google, what's the news headlines for today?",
+    "label": "actionable"
+  },
+  {
+    "text": "My daughter's school is closed tomorrow due to some function.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, show me photos of kittens.",
+    "label": "actionable"
+  },
+  {
+    "text": "The gulab jamuns from that sweet shop are always fresh.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, who is the Prime Minister of India?",
+    "label": "actionable"
+  },
+  {
+    "text": "I think I left my umbrella in the auto-rickshaw.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, start a 5-minute meditation session.",
+    "label": "actionable"
+  },
+  {
+    "text": "This new restaurant in the neighbourhood looks quite promising.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Google, what is the PIN code for Andheri West?",
+    "label": "actionable"
+  },
+  {
+    "text": "My car needs a good servicing, making strange noises.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, set the AC temperature to 24 degrees Celsius.",
+    "label": "actionable"
+  },
+  {
+    "text": "Priya, could you lower the TV volume? I am on a call.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Hey Siri, what does 'ephemeral' mean?",
+    "label": "actionable"
+  },
+  {
+    "text": "This new tax policy is beneficial for senior citizens, I read.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, tell me how to make a simple omelette.",
+    "label": "actionable"
+  },
+  {
+    "text": "The flight to Chennai got delayed by two hours, so frustrating.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Google, when is the next public holiday in India?",
+    "label": "actionable"
+  },
+  {
+    "text": "My head is paining a little bit after working on the laptop for so long.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, send a message to my wife: 'Running late from office, will be home by 9.'",
+    "label": "actionable"
+  },
+  {
+    "text": "The garden in our apartment complex is looking very beautiful these days.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, play 'Chaiyya Chaiyya' song.",
+    "label": "actionable"
+  },
+  {
+    "text": "It feels so good to have a cup of hot chai in this rainy weather.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, what are the symptoms of common cold?",
+    "label": "actionable"
+  },
+  {
+    "text": "The quality of fruits from the local vendor has improved a lot.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Okay Google, who directed the movie Lagaan?",
+    "label": "actionable"
+  },
+  {
+    "text": "My friend is learning to play the guitar online, he was saying.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, find vegetarian restaurants near me.",
+    "label": "actionable"
+  },
+  {
+    "text": "The kids are making too much noise, I can't concentrate.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, where is the nearest ATM?",
+    "label": "actionable"
+  },
+  {
+    "text": "This room needs a good dusting, full of cobwebs.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, what is 25 multiplied by 17?",
+    "label": "actionable"
+  },
+  {
+    "text": "The street food festival in town was really crowded last weekend.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Google, can you make a barking sound?",
+    "label": "actionable"
+  },
+  {
+    "text": "My aunt makes the most delicious pickles, ever.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, switch off the smart plug in the bedroom.",
+    "label": "actionable"
+  },
+  {
+    "text": "I need to buy a new charger for my phone, this one is broken.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Hey Siri, give me a summary of today's sports news.",
+    "label": "actionable"
+  },
+  {
+    "text": "The public transport system in this city is quite efficient, actually.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, shuffle my 'Morning Workout' playlist.",
+    "label": "actionable"
+  },
+  {
+    "text": "This recipe requires too many ingredients, I feel.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Google, find information about Jim Corbett National Park.",
+    "label": "actionable"
+  },
+  {
+    "text": "The paint on the balcony wall is peeling off, need to get it fixed.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, how do I tie a half Windsor knot?",
+    "label": "actionable"
+  },
+  {
+    "text": "Sunil, can you turn off the fan when you leave the room?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, tell me something interesting.",
+    "label": "actionable"
+  },
+  {
+    "text": "This new bridge has reduced the travel time considerably.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, set a recurring reminder for bill payment on the 5th of every month.",
+    "label": "actionable"
+  },
+  {
+    "text": "I really enjoyed reading that author's latest book.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Okay Google, start my 'Evening Walk' workout.",
+    "label": "actionable"
+  },
+  {
+    "text": "The neighbour's dog keeps barking all night, it's very disturbing.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, show me how to make masala chai, proper Indian style.",
+    "label": "actionable"
+  },
+  {
+    "text": "That mango pickle my mom sent is getting over very fast.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, what are the trending videos on YouTube today?",
+    "label": "actionable"
+  },
+  {
+    "text": "My shoes are feeling a bit tight today, I think.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, turn the volume down on this device.",
+    "label": "actionable"
+  },
+  {
+    "text": "The view from Nandi Hills is absolutely breathtaking at sunrise.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Google, open Swiggy app for me.",
+    "label": "actionable"
+  },
+  {
+    "text": "These plants need watering; they look very dry.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, who won the Best Actor award last year?",
+    "label": "actionable"
+  },
+  {
+    "text": "This discussion seems to be going nowhere, no concrete outcome.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Hey Siri, call my office landline number.",
+    "label": "actionable"
+  },
+  {
+    "text": "My son is preparing very hard for his board exams this year.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, how many teaspoons in a tablespoon?",
+    "label": "actionable"
+  },
+  {
+    "text": "The saree you wore for the wedding was stunning, by the way.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Google, give me five random facts.",
+    "label": "actionable"
+  },
+  {
+    "text": "It's already 10 o'clock, time is just flying by!",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, add bread and eggs to my shopping cart on Amazon.",
+    "label": "actionable"
+  },
+  {
+    "text": "He speaks English with such a strong regional accent.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, what is the latest stock price for Reliance Industries?",
+    "label": "actionable"
+  },
+  {
+    "text": "This new detergent smells really good, which brand is it?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, create a 'Party Playlist' with upbeat Hindi and English songs.",
+    "label": "actionable"
+  },
+  {
+    "text": "The children's park near our house is always so crowded in the evenings.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Okay Google, how long will it take to drive to the airport from here?",
+    "label": "actionable"
+  },
+  {
+    "text": "I need to get my laptop repaired; the screen is flickering.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, remind me to wish Ajay 'Happy Birthday' tomorrow.",
+    "label": "actionable"
+  },
+  {
+    "text": "This movie's storyline is very similar to that old Hollywood film.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, set a Do Not Disturb mode for the next one hour.",
+    "label": "actionable"
+  },
+  {
+    "text": "The milkman delivered the milk quite late today.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, turn on the geyser in the master bathroom.",
+    "label": "actionable"
+  },
+  {
+    "text": "The masala dosa at this restaurant is consistently good.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Google, how many calories in a banana?",
+    "label": "actionable"
+  },
+  {
+    "text": "My parents prefer reading the physical newspaper over online news.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, can you play a lullaby for the baby?",
+    "label": "actionable"
+  },
+  {
+    "text": "The tailor did a very bad job with my blouse this time.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Hey Siri, what's the meaning of the word 'serendipity'?",
+    "label": "actionable"
+  },
+  {
+    "text": "This area becomes very quiet after 9 PM, completely silent.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, start a 20-minute yoga routine from my skills.",
+    "label": "actionable"
+  },
+  {
+    "text": "That ice cream flavour sounds very exotic, I wonder how it tastes.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Okay Google, broadcast a message: 'Dinner is ready, come to the table.'",
+    "label": "actionable"
+  },
+  {
+    "text": "My neighbour's kid plays the piano really well, can hear him practicing.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, what's the flight status for AI 506 from Delhi?",
+    "label": "actionable"
+  },
+  {
+    "text": "This old cupboard is taking up too much space in the room.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, turn off all smart lights in the house.",
+    "label": "actionable"
+  },
+  {
+    "text": "I always feel refreshed after a good night's sleep.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, read my Audible book from where I left off.",
+    "label": "actionable"
+  },
+  {
+    "text": "The water pressure in the tap is very low today, what happened?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Google, find me some quick and easy breakfast ideas.",
+    "label": "actionable"
+  },
+  {
+    "text": "My sister is a fantastic cook, her biryani is famous.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, tell me a story about Akbar and Birbal.",
+    "label": "actionable"
+  },
+  {
+    "text": "It's getting very dark outside; feels like a storm is coming.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, is it going to rain in Pune today?",
+    "label": "actionable"
+  },
+  {
+    "text": "The sweets from that shop are usually good, but this time they were not fresh.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, order one kg of basmati rice from Amazon Pantry.",
+    "label": "actionable"
+  },
+  {
+    "text": "I forgot to bring my water bottle from home again today.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Okay Google, play my 'Road Trip' playlist on Spotify.",
+    "label": "actionable"
+  },
+  {
+    "text": "The flowers in our garden are blooming beautifully this spring.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Assistant, add 'doctor's appointment tomorrow at 10 AM' to my Google Calendar.",
+    "label": "actionable"
+  },
+  {
+    "text": "Ravi, did you charge my phone? The battery is almost dead.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Siri, how do I make paneer tikka at home?",
+    "label": "actionable"
+  },
+  {
+    "text": "This city has a really vibrant nightlife, especially on weekends.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Alexa, find the nearest hospital with an emergency room.",
+    "label": "actionable"
+  },
+  {
+    "text": "My old school friends are planning a reunion next month.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Google, send an email to Priya: 'Can we meet for lunch tomorrow?'",
+    "label": "actionable"
+  },
+  {
+    "text": "That mango lassi was so thick and delicious, totally worth it.",
+    "label": "non-actionable"
+  }
+]

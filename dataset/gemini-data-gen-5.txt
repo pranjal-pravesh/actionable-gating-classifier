@@ -1,0 +1,706 @@
+[
+  {
+    "text": "Arre yaar, can you check what the score is in the cricket match?",
+    "label": "actionable"
+  },
+  {
+    "text": "This Bangalore traffic is simply mind-boggling, no sense only.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Please remind me to call Papa back in an hour, haan?",
+    "label": "actionable"
+  },
+  {
+    "text": "That new chai place on 100 Feet Road is serving really good adrak chai.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Play some of the latest Hindi romantic songs for me.",
+    "label": "actionable"
+  },
+  {
+    "text": "My aunt is coming from Mumbai next week, it's been ages.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Set a timer for 20 minutes, I am making poha.",
+    "label": "actionable"
+  },
+  {
+    "text": "This AC doesn't seem to be cooling properly, I think.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Add 'get vegetables' and 'pay electricity bill' to my tasks for today.",
+    "label": "actionable"
+  },
+  {
+    "text": "Accha, so the meeting got postponed to tomorrow morning then?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What is the weather forecast for Chennai for the next three days?",
+    "label": "actionable"
+  },
+  {
+    "text": "Mummy made excellent idlis for breakfast today, so soft!",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Tell me a funny joke, yaar, feeling a bit down.",
+    "label": "actionable"
+  },
+  {
+    "text": "I really think they need to improve the roads in this area, so many potholes.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Translate 'how are you doing' into Kannada for me, please.",
+    "label": "actionable"
+  },
+  {
+    "text": "The price of onions has shot up again, it's too much.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Can you find me a simple recipe for egg curry?",
+    "label": "actionable"
+  },
+  {
+    "text": "He's always complaining about his office work, typical Monday mood.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What's on my agenda for tomorrow morning, can you tell me?",
+    "label": "actionable"
+  },
+  {
+    "text": "The monsoon seems to have arrived early this year, no?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Dim the lights in the drawing-room a bit, it's too bright.",
+    "label": "actionable"
+  },
+  {
+    "text": "My mobile internet pack is finishing too quickly these days, what to do.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Show me the route to the nearest government hospital.",
+    "label": "actionable"
+  },
+  {
+    "text": "These online shopping festivals offer some really good deals, actually.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What is the capital of Australia?",
+    "label": "actionable"
+  },
+  {
+    "text": "Pass me the remote, yaar, this TV serial is so boring.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Call Maa, I need to speak to her urgently.",
+    "label": "actionable"
+  },
+  {
+    "text": "The construction work next door is making so much noise, I can't concentrate.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What's the current time in New York City?",
+    "label": "actionable"
+  },
+  {
+    "text": "This filter coffee is not as strong as I like it.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Send a WhatsApp message to Suresh: 'Are you coming for the match tonight?'",
+    "label": "actionable"
+  },
+  {
+    "text": "I must remember to pay the children's school fees by the end of this week.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Can you read out my new emails?",
+    "label": "actionable"
+  },
+  {
+    "text": "The current power situation in this colony is quite bad, frequent cuts.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Set an alarm for 5:45 AM, Monday to Friday.",
+    "label": "actionable"
+  },
+  {
+    "text": "The plot twist in that new web series was totally unexpected.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "How many kilometers is it from Delhi to Jaipur by road?",
+    "label": "actionable"
+  },
+  {
+    "text": "My cousins from Canada are visiting us during Christmas holidays.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Play some instrumental tabla music for studying.",
+    "label": "actionable"
+  },
+  {
+    "text": "This room cooler is not giving much relief in this heat.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Suggest some good South Indian restaurants in this area, please.",
+    "label": "actionable"
+  },
+  {
+    "text": "Mr. Gupta's daughter got a scholarship to study in the UK, they were telling me.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Add 'buy birthday gift for Rina' to my calendar for next Saturday.",
+    "label": "actionable"
+  },
+  {
+    "text": "Be careful, beta, the floor is wet, you might slip!",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Tell me some interesting facts about the Indian independence movement.",
+    "label": "actionable"
+  },
+  {
+    "text": "I think it's going to pour heavily today, the sky looks very ominous.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What is 200 British Pounds in Indian Rupees today?",
+    "label": "actionable"
+  },
+  {
+    "text": "This tailor shop always delays the delivery of clothes.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Create a quick note: 'Groceries to buy - atta, dal, rice, sugar'.",
+    "label": "actionable"
+  },
+  {
+    "text": "The kulfi falooda at that old shop in Chandni Chowk is still the best.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Find directions to MG Road metro station.",
+    "label": "actionable"
+  },
+  {
+    "text": "Our society security guard, Ramu kaka, is very reliable and alert.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Increase the volume a bit for this song, it's my favourite.",
+    "label": "actionable"
+  },
+  {
+    "text": "The new restaurant's menu looks quite extensive, so many options.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "How do you say 'good morning' in Marathi language?",
+    "label": "actionable"
+  },
+  {
+    "text": "This particular brand of ghee smells very authentic.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What new Bollywood movies are releasing this Friday?",
+    "label": "actionable"
+  },
+  {
+    "text": "Arre, did you give the clothes for ironing yesterday?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Remind me to switch off the geyser after 15 minutes.",
+    "label": "actionable"
+  },
+  {
+    "text": "The great Indian online sale this time was a bit of a damp squib, yaar.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Can you spell 'pronunciation' for me correctly?",
+    "label": "actionable"
+  },
+  {
+    "text": "That abstract painting in their house is very modern and intriguing, isn't it?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What are the latest sports headlines today?",
+    "label": "actionable"
+  },
+  {
+    "text": "Priya's wedding is next month, need to plan what to wear.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Show me pictures of baby pandas, they are so cute.",
+    "label": "actionable"
+  },
+  {
+    "text": "The jalebis from that corner shop are always crispy and hot.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Who is the current Chief Minister of Tamil Nadu?",
+    "label": "actionable"
+  },
+  {
+    "text": "Oh damn, I think I left my house keys on the dining table.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Start a 10-minute breathing exercise session.",
+    "label": "actionable"
+  },
+  {
+    "text": "This new food delivery app has some really good discount offers.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What is the STD code for Hyderabad?",
+    "label": "actionable"
+  },
+  {
+    "text": "My laptop has been acting up, need to get it checked properly.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Set the bedroom temperature to 22 degrees, it's pleasant then.",
+    "label": "actionable"
+  },
+  {
+    "text": "Uncle, could you please lower the TV volume? The kids are studying.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What does the word 'ubiquitous' mean in English?",
+    "label": "actionable"
+  },
+  {
+    "text": "This new government policy for farmers seems quite beneficial on paper.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Tell me how to prepare a simple dal tadka.",
+    "label": "actionable"
+  },
+  {
+    "text": "My flight to Kolkata was delayed by almost three hours, so irritating.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "When is the next major festival holiday in India?",
+    "label": "actionable"
+  },
+  {
+    "text": "I have a slight headache after working non-stop for so long.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Send a text message to my driver: 'Come to the office gate at 6 PM'.",
+    "label": "actionable"
+  },
+  {
+    "text": "The gardens at Rashtrapati Bhavan look magnificent during this time of year.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Play the song 'Dil Chahta Hai' for me, na.",
+    "label": "actionable"
+  },
+  {
+    "text": "It's such a relief to have a glass of cold water in this heat.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What are the home remedies for a sore throat?",
+    "label": "actionable"
+  },
+  {
+    "text": "The quality of vegetables from the online store was surprisingly good this time.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Who wrote the book 'Train to Pakistan'?",
+    "label": "actionable"
+  },
+  {
+    "text": "My friend is learning Spanish these days through an app, she was saying.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Find only pure vegetarian restaurants near my current location.",
+    "label": "actionable"
+  },
+  {
+    "text": "The kids are making so much golmaal, can't hear myself think.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Where is the closest Canara Bank ATM from here?",
+    "label": "actionable"
+  },
+  {
+    "text": "This room desperately needs a good spring cleaning, so dusty.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What is 35 times 18, calculate quickly.",
+    "label": "actionable"
+  },
+  {
+    "text": "The book fair at Pragati Maidan was very crowded last Sunday.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Can you make the sound of a cat meowing?",
+    "label": "actionable"
+  },
+  {
+    "text": "My dadi used to tell the best bedtime stories.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Switch off the smart plug connected to the geyser, please.",
+    "label": "actionable"
+  },
+  {
+    "text": "I urgently need to get a new pair of spectacles, this one is giving trouble.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Give me a summary of the main business news today.",
+    "label": "actionable"
+  },
+  {
+    "text": "The local train service in Mumbai is quite something, an experience.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Shuffle my playlist titled 'Gym Motivation Songs'.",
+    "label": "actionable"
+  },
+  {
+    "text": "This butter chicken recipe seems too complicated for a beginner.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Find some information about tourism in Kerala.",
+    "label": "actionable"
+  },
+  {
+    "text": "The curtains in the guest room need to be changed, they are quite old.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "How do I perform a basic Surya Namaskar sequence?",
+    "label": "actionable"
+  },
+  {
+    "text": "Anita, can you please close the window? It's getting windy.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Tell me something I don't know.",
+    "label": "actionable"
+  },
+  {
+    "text": "This newly opened flyover has really helped with the traffic congestion.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Set a recurring reminder to water the plants every alternate day.",
+    "label": "actionable"
+  },
+  {
+    "text": "I was thoroughly impressed by his presentation skills today.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Start my 'Meditation Timer' for 15 minutes.",
+    "label": "actionable"
+  },
+  {
+    "text": "The new neighbours seem quite friendly, we met them yesterday.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Show me how to make authentic Hyderabadi biryani step by step.",
+    "label": "actionable"
+  },
+  {
+    "text": "That street food vendor makes the best samosa chaat in this area.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What are some trending topics on Twitter India right now?",
+    "label": "actionable"
+  },
+  {
+    "text": "My walking shoes are completely worn out, need a new pair.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Turn the smart fan speed to medium in the study.",
+    "label": "actionable"
+  },
+  {
+    "text": "The sunrise view from Tiger Hill in Darjeeling is legendary, they say.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Open the Zomato app for me, want to order dinner.",
+    "label": "actionable"
+  },
+  {
+    "text": "These potted plants on the balcony need some fresh soil.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Who won the Man of the Match award in yesterday's IPL game?",
+    "label": "actionable"
+  },
+  {
+    "text": "This office meeting is dragging on for too long, no clear agenda.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Make a call to my sister's number, it's saved as 'Deepa didi'.",
+    "label": "actionable"
+  },
+  {
+    "text": "My father is very particular about his morning cup of tea, perfectly made.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "How many days are there in the month of February next year?",
+    "label": "actionable"
+  },
+  {
+    "text": "The design of that new silk saree was absolutely gorgeous.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Give me ten random general knowledge questions with answers.",
+    "label": "actionable"
+  },
+  {
+    "text": "Time flies so quickly, it's almost evening already!",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Add atta, rice and moong dal to my Amazon Fresh shopping list.",
+    "label": "actionable"
+  },
+  {
+    "text": "He speaks English with a very charming South Indian accent.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What is the latest stock market update for Nifty 50?",
+    "label": "actionable"
+  },
+  {
+    "text": "This room freshener has a very pleasant lavender fragrance, no?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Create a new music playlist named 'Workout Motivation' and add some upbeat songs.",
+    "label": "actionable"
+  },
+  {
+    "text": "The local park gets very crowded with kids in the evening hours.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "How long will it generally take to get to the International Airport from here at this hour?",
+    "label": "actionable"
+  },
+  {
+    "text": "I need to visit the bank tomorrow for some urgent work regarding my account.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Remind me to wish Aunt Meena 'Happy Anniversary' on the 15th of this month.",
+    "label": "actionable"
+  },
+  {
+    "text": "This director's movies always have such a deep social message.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Turn on Do Not Disturb mode for the next two hours, I have a presentation.",
+    "label": "actionable"
+  },
+  {
+    "text": "The newspaper boy delivered the wrong newspaper today morning again.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Switch on the water pump for the overhead tank for half an hour.",
+    "label": "actionable"
+  },
+  {
+    "text": "The pav bhaji at Juhu beach still tastes the same after all these years.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "How many grams are there in one kilogram?",
+    "label": "actionable"
+  },
+  {
+    "text": "My grandfather prefers reading physical books to e-books, even now.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Can you play some soothing rain sounds for sleeping?",
+    "label": "actionable"
+  },
+  {
+    "text": "The embroidery on that lehenga was incredibly intricate and beautiful.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What's the meaning of the Hindi word 'jugaad' in English?",
+    "label": "actionable"
+  },
+  {
+    "text": "This part of the city becomes surprisingly quiet late at night.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Start a 30-minute power yoga session from my favourite app.",
+    "label": "actionable"
+  },
+  {
+    "text": "That new ice cream parlour's chocolate fudge flavour is to die for.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Broadcast a message to all rooms: 'Lunch is served, everyone please come.'",
+    "label": "actionable"
+  },
+  {
+    "text": "My cousin's son plays the tabla exceptionally well for his age.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What is the Air India flight status for the flight from Dubai to Cochin?",
+    "label": "actionable"
+  },
+  {
+    "text": "This old almirah is just occupying too much valuable space here.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Switch off all the smart bulbs in the entire house now.",
+    "label": "actionable"
+  },
+  {
+    "text": "I always feel more energetic after my morning walk in the park.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Continue playing my audiobook 'Sapiens' from where I stopped yesterday.",
+    "label": "actionable"
+  },
+  {
+    "text": "The water flow in the shower is very less today, must be some problem.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Find some quick and healthy dinner recipes for weekdays.",
+    "label": "actionable"
+  },
+  {
+    "text": "My mother-in-law makes the best gajar ka halwa in the whole world.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Tell me a famous moral story for kids.",
+    "label": "actionable"
+  },
+  {
+    "text": "It's already so cloudy; looks like the match might get rained out.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Is it expected to rain in Shimla tomorrow afternoon?",
+    "label": "actionable"
+  },
+  {
+    "text": "The rasgullas from KC Das were good, but a bit too sweet for me.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Order 5 kgs of Sona Masoori rice on my usual grocery app.",
+    "label": "actionable"
+  },
+  {
+    "text": "Oops, I forgot to reply to Meera's message from this morning.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Play my 'Long Drive Classics' playlist on Gaana.",
+    "label": "actionable"
+  },
+  {
+    "text": "The bougainvillea in our society garden is in full bloom, looks so lovely.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Add 'Submit IT returns' to my calendar for July 25th with a reminder.",
+    "label": "actionable"
+  },
+  {
+    "text": "Arun, did you check if the gas cylinder is switched off before leaving?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "How do I make a good garlic naan at home without a tandoor?",
+    "label": "actionable"
+  },
+  {
+    "text": "This city's street food culture is incredibly diverse and vibrant.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Find the closest 24-hour pharmacy near my location.",
+    "label": "actionable"
+  },
+  {
+    "text": "My old college buddies are planning a get-together in Goa.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Send an email to the HR department asking about my leave balance.",
+    "label": "actionable"
+  },
+  {
+    "text": "That new stand-up comedian's show was hilarious, non-stop laughter.",
+    "label": "non-actionable"
+  }
+]

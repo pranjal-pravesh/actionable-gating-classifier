@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Maybe we should think about hiring another developer.",
+    "label": "actionable"
+  },
+  {
+    "text": "The Wi-Fi connection seems a bit unstable today.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Um, could you maybe, like, check if the files have synced properly?",
+    "label": "actionable"
+  },
+  {
+    "text": "Alexa, play... um... jazz...smooth.",
+    "label": "actionable"
+  },
+  {
+    "text": "Draft a follow-up email to the attendees.",
+    "label": "actionable"
+  },
+  {
+    "text": "I'm not feeling too well today, unfortunately.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "The server is down again, so could you reboot it and let me know when it's back up?",
+    "label": "actionable"
+  },
+  {
+    "text": "Thinking about starting a new fitness routine.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "File this under 'Completed Projects' when you're done.",
+    "label": "actionable"
+  },
+  {
+    "text": "It's my mom's birthday, I need to buy her a gift and then call her tonight.",
+    "label": "actionable"
+  },
+  {
+    "text": "I've always found abstract art fascinating.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "That concert last night was absolutely incredible.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "So, uh, I guess we need to decide on the color scheme... soon, right?",
+    "label": "actionable"
+  },
+  {
+    "text": "Report... needs changes... before Friday?",
+    "label": "actionable"
+  },
+  {
+    "text": "Someone left the lights on in the conference room again.",
+    "label": "actionable"
+  },
+  {
+    "text": "Research potential vendors for the new software.",
+    "label": "actionable"
+  },
+  {
+    "text": "I finished my part of the report; review it, then add your section before sending it to Maria.",
+    "label": "actionable"
+  },
+  {
+    "text": "The new coffee machine is much faster than the old one.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Well, I'm pretty sure, you know, that's not how it's supposed to work.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Doorbell... who... check security cam.",
+    "label": "actionable"
+  },
+  {
+    "text": "This new update has some significant performance improvements.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Turn on the dishwasher before you go to bed.",
+    "label": "actionable"
+  },
+  {
+    "text": "I was hoping we could get an update on the XYZ project.",
+    "label": "actionable"
+  },
+  {
+    "text": "I wonder what the weather will be like on vacation.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Hey Google, tell me a joke.",
+    "label": "actionable"
+  },
+  {
+    "text": "The user manual is a bit confusing, isn't it?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Traffic is terrible, find an alternate route, and what's my ETA?",
+    "label": "actionable"
+  },
+  {
+    "text": "Can I, uh, just ask a quick question about, um, the process?",
+    "label": "actionable"
+  },
+  {
+    "text": "It’s quite humid this afternoon.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Find the cheapest flights to Barcelona for next month.",
+    "label": "actionable"
+  },
+  {
+    "text": "This project has been a real learning experience for everyone.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "The printer seems to be out of paper.",
+    "label": "actionable"
+  },
+  {
+    "text": "Water bill... high... pay... before due date.",
+    "label": "actionable"
+  },
+  {
+    "text": "Alexa, what's the weather, and play some calming music.",
+    "label": "actionable"
+  },
+  {
+    "text": "Pay the electricity bill online.",
+    "label": "actionable"
+  },
+  {
+    "text": "You know, it's like, really impressive what they've achieved.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "She usually arrives around this time.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "It feels like we're missing something here.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "The user feedback has been overwhelmingly positive so far.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Send me the link to that article you mentioned.",
+    "label": "actionable"
+  },
+  {
+    "text": "Verify the credentials before granting access.",
+    "label": "actionable"
+  },
+  {
+    "text": "Hey Siri...directions... nearest coffee... now.",
+    "label": "actionable"
+  },
+  {
+    "text": "Could be worth exploring a different approach.",
+    "label": "actionable"
+  },
+  {
+    "text": "So, essentially, like, we're gonna have to, uh, redo the whole thing?",
+    "label": "actionable"
+  },
+  {
+    "text": "I really hope they pick our design proposal.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "I'm concerned about the budget, so let's schedule a meeting to discuss cutting costs and finding new revenue streams.",
+    "label": "actionable"
+  },
+  {
+    "text": "Okay Google, navigate home.",
+    "label": "actionable"
+  },
+  {
+    "text": "The keynote speaker was quite engaging.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "It would be helpful to have the meeting agenda beforehand.",
+    "label": "actionable"
+  },
+  {
+    "text": "I wonder if Sarah has seen this email.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "It feels like it's been ages since we last had a proper team outing.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Meeting with Jane... cancel... resched?",
+    "label": "actionable"
+  },
+  {
+    "text": "Add 'review presentation' to my to-do list for tomorrow.",
+    "label": "actionable"
+  },
+  {
+    "text": "My head hurts, so I'm taking an aspirin, and can you lower the blinds?",
+    "label": "actionable"
+  },
+  {
+    "text": "It's just, um, I'm not totally convinced by, like, that argument.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "This coffee tastes a bit burnt, I think.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Lock all the doors when you leave.",
+    "label": "actionable"
+  },
+  {
+    "text": "This data is interesting, what should we do with it?",
+    "label": "actionable"
+  },
+  {
+    "text": "My flight was delayed, which was rather frustrating.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Mow the lawn this weekend if the weather's good.",
+    "label": "actionable"
+  },
+  {
+    "text": "Let's try to, you know, uh, wrap this up in the next, like, ten minutes.",
+    "label": "actionable"
+  },
+  {
+    "text": "Lunch order... anything from... sandwich shop... guys?",
+    "label": "actionable"
+  },
+  {
+    "text": "Is anyone going to be using the big monitor?",
+    "label": "non-actionable"
+  },
+  {
+    "text": "The app keeps crashing on my phone; I'll restart it, but you should also log a bug report for QA.",
+    "label": "actionable"
+  },
+  {
+    "text": "Let's schedule a brainstorm session for early next week.",
+    "label": "actionable"
+  },
+  {
+    "text": "This discussion has been very productive, I think.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "I am so ready for the weekend to start.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "I kinda feel, um, we might be overlooking a, uh, critical component here.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Post this announcement on the company intranet.",
+    "label": "actionable"
+  },
+  {
+    "text": "That proposal might need a second look.",
+    "label": "actionable"
+  },
+  {
+    "text": "The economic forecast for next year is looking quite uncertain.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "The... uh... thingamajig... for the printer... order more.",
+    "label": "actionable"
+  },
+  {
+    "text": "I've got to run to the store for milk, want me to pick up anything else for you while I'm there?",
+    "label": "actionable"
+  },
+  {
+    "text": "Take out the recycling, it's collection day tomorrow.",
+    "label": "actionable"
+  },
+  {
+    "text": "Defrost the chicken for dinner tonight.",
+    "label": "actionable"
+  },
+  {
+    "text": "So, the thing is, right, we, uh, definitely need to get approval first.",
+    "label": "actionable"
+  },
+  {
+    "text": "I'm surprised they managed to finish it on time.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "There's a lot of unread email in the support inbox.",
+    "label": "actionable"
+  },
+  {
+    "text": "Call back... client... ASAP... urgent!",
+    "label": "actionable"
+  },
+  {
+    "text": "That new Italian place is open, let's try it for dinner and I'll make a reservation.",
+    "label": "actionable"
+  },
+  {
+    "text": "Prepare a slide summarizing the Q3 results.",
+    "label": "actionable"
+  },
+  {
+    "text": "Hey, um, are you, like, free to chat later... about the proposal?",
+    "label": "actionable"
+  },
+  {
+    "text": "The traffic this morning was unusually light, which was nice.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "I believe transparency is key in situations like this.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "What about a team lunch next Friday?",
+    "label": "actionable"
+  },
+  {
+    "text": "Thermostat... set... cooler... bit warm.",
+    "label": "actionable"
+  },
+  {
+    "text": "Investigate the source of this bug report.",
+    "label": "actionable"
+  },
+  {
+    "text": "The project timeline looks tight; please provide an update on your tasks, and we'll need to prioritize deliverables.",
+    "label": "actionable"
+  },
+  {
+    "text": "Hmm, well, that's, like, one way of looking at it, I suppose.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "The restaurant we went to had excellent service.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Kids... school pickup... reminder... 3 PM?",
+    "label": "actionable"
+  },
+  {
+    "text": "Sign me up for the company newsletter.",
+    "label": "actionable"
+  },
+  {
+    "text": "I forgot my wallet, can you pay for lunch, and I'll Venmo you back later?",
+    "label": "actionable"
+  },
+  {
+    "text": "I think, probably, um, we should add that to the agenda, you know?",
+    "label": "actionable"
+  },
+  {
+    "text": "This software has some very intuitive features.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Email... from Mark... read... important one.",
+    "label": "actionable"
+  },
+  {
+    "text": "Clean your room before grandma visits.",
+    "label": "actionable"
+  },
+  {
+    "text": "I'm working late tonight, so order a pizza for yourself, and just leave some for me if possible.",
+    "label": "actionable"
+  },
+  {
+    "text": "It's sort of, uh, important to, like, manage expectations on this.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "I'm just considering all the possible options right now.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Forward me the meeting invitation please.",
+    "label": "actionable"
+  },
+  {
+    "text": "The flight is delayed, which is annoying, but please rebook me on the next available one.",
+    "label": "actionable"
+  },
+  {
+    "text": "He seemed very knowledgeable about the subject matter.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Can we just, like, pause for a sec and, uh, re-evaluate this point?",
+    "label": "actionable"
+  },
+  {
+    "text": "Siri, what movies are playing nearby?",
+    "label": "actionable"
+  },
+  {
+    "text": "I think this is a great idea, and you should present it at the next all-hands meeting.",
+    "label": "actionable"
+  },
+  {
+    "text": "This policy change will affect many departments, I assume.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Collate feedback from all team members.",
+    "label": "actionable"
+  },
+  {
+    "text": "The view from this window is breathtaking.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Water the plants on the balcony.",
+    "label": "actionable"
+  },
+  {
+    "text": "I am somewhat concerned about the potential risks involved.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Renew my gym membership.",
+    "label": "actionable"
+  },
+  {
+    "text": "That new recipe for lasagna was a definite hit with the family.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Set up a recurring monthly payment for the subscription.",
+    "label": "actionable"
+  },
+  {
+    "text": "Our competitor just launched a very similar product.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Check the patient's temperature and record it.",
+    "label": "actionable"
+  },
+  {
+    "text": "The instructions for this assembly are incredibly clear.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Make a list of pros and cons for this decision.",
+    "label": "actionable"
+  },
+  {
+    "text": "I feel much more energetic after that workout.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Could you elaborate on that point, please?",
+    "label": "actionable"
+  },
+  {
+    "text": "The historical context is quite relevant here, actually.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Book a consultation with Dr. Evans.",
+    "label": "actionable"
+  },
+  {
+    "text": "She has a remarkable ability to connect with people.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Download the latest security patch and install it.",
+    "label": "actionable"
+  },
+  {
+    "text": "This room could use a bit more natural light, in my opinion.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Confirm your attendance for the webinar.",
+    "label": "actionable"
+  },
+  {
+    "text": "The quarterly review went better than I had dared to hope.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Start the car, I'll be down in a minute.",
+    "label": "actionable"
+  },
+  {
+    "text": "Learning a new language is always a challenging endeavor.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Text Sarah 'Happy Birthday! Hope you have a great day!'",
+    "label": "actionable"
+  },
+  {
+    "text": "It's a well-known fact that exercise improves mood.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Initiate the backup sequence now.",
+    "label": "actionable"
+  },
+  {
+    "text": "The color of the new logo is quite vibrant.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Please pre-heat the oven to 375 degrees.",
+    "label": "actionable"
+  },
+  {
+    "text": "I remember when this entire area was just fields.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Fetch the latest code from the main branch.",
+    "label": "actionable"
+  },
+  {
+    "text": "That's an interesting point of view you've raised.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Contact customer support regarding the faulty device.",
+    "label": "actionable"
+  },
+  {
+    "text": "My doctor said I need to get more regular exercise.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "Prepare the conference room for the 10 AM meeting.",
+    "label": "actionable"
+  },
+  {
+    "text": "This algorithm seems to be quite efficient for this type of data.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "I'm really looking forward to the holidays this year.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "The training session provided a lot of useful insights.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "There's a distinct possibility of changes to the original plan.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "It's such a relief that the issue is finally resolved.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "The company culture here is generally very supportive.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "I didn't expect the exam to be that difficult.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "The art exhibition was incredibly thought-provoking.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "He tends to be very meticulous in his work.",
+    "label": "non-actionable"
+  },
+  {
+    "text": "That new cafe has the best almond croissants.",
+    "label": "non-actionable"
+  }
+]
