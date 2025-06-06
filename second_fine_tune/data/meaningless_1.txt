@@ -1,0 +1,382 @@
+[
+{
+"text": "Control, control, control.",
+"label": 0
+},
+{
+"text": "And what is apparent towards this?",
+"label": 0
+},
+{
+"text": "You",
+"label": 0
+},
+{
+"text": "I’ll see you at the development tomorrow at one o’clock.",
+"label": 0
+},
+{
+"text": "I don’t know what my...",
+"label": 0
+},
+{
+"text": "Hmm",
+"label": 0
+},
+{
+"text": "Can you some more step forward?",
+"label": 0
+},
+{
+"text": "You responding with I wanted to ask about this sector of it on the card.",
+"label": 0
+},
+{
+"text": "What?",
+"label": 0
+},
+{
+"text": "Hello, hello, hello, hello.",
+"label": 0
+},
+{
+"text": "You know",
+"label": 0
+},
+{
+"text": "What is it?",
+"label": 0
+},
+{
+"text": "Okay, I’ll accept if this is funny.",
+"label": 0
+},
+{
+"text": "I’ll see you in the next video. Bye.",
+"label": 0
+},
+{
+"text": "Hello?",
+"label": 0
+},
+{
+"text": "I should do the meeting.",
+"label": 0
+},
+{
+"text": "Again if I say anything random it is now it is going to capture my audio but and also it is going to transcribe it but it the actionable gate is going to filter all of the unnecessary part out and only the necessary part will be translated and",
+"label": 0
+},
+{
+"text": "Will be processed by LLM.",
+"label": 0
+},
+{
+"text": "Repository links direct access to your fine-tuned model on having this",
+"label": 0
+},
+{
+"text": "Links for access to.",
+"label": 0
+},
+{
+"text": "Bye, Joe.",
+"label": 0
+},
+{
+"text": "So this is currently",
+"label": 0
+},
+{
+"text": "Wait.",
+"label": 0
+},
+{
+"text": "The meaning of",
+"label": 0
+},
+{
+"text": "Yes.",
+"label": 0
+},
+{
+"text": "Multiplayer. Hi, for God’s sake.",
+"label": 0
+},
+{
+"text": "I apologize.",
+"label": 0
+},
+{
+"text": "Have a good flight.",
+"label": 0
+},
+{
+"text": "Table tends to be.",
+"label": 0
+},
+{
+"text": "Laughing in motion.",
+"label": 0
+},
+{
+"text": "What even is it?",
+"label": 0
+},
+{
+"text": "Just the space, it will.",
+"label": 0
+},
+{
+"text": "Only in dreams.",
+"label": 0
+},
+{
+"text": "Follow through what cannot be.",
+"label": 0
+},
+{
+"text": "Is this the real life?",
+"label": 0
+},
+{
+"text": "Wherever, whenever, whatever.",
+"label": 0
+},
+{
+"text": "Does it make a sound?",
+"label": 0
+},
+{
+"text": "In the midst of along.",
+"label": 0
+},
+{
+"text": "Yes, maybe so or not.",
+"label": 0
+},
+{
+"text": "What comes through?",
+"label": 0
+},
+{
+"text": "Reflect the future past.",
+"label": 0
+},
+{
+"text": "Lights and shadows of.",
+"label": 0
+},
+{
+"text": "Could it truly unravel?",
+"label": 0
+},
+{
+"text": "Go beyond beneath it.",
+"label": 0
+},
+{
+"text": "Have you ever seen something?",
+"label": 0
+},
+{
+"text": "Wait for it, and",
+"label": 0
+},
+{
+"text": "Will it shift shape?",
+"label": 0
+},
+{
+"text": "Do you ever wonder why?",
+"label": 0
+},
+{
+"text": "Comes as it goes.",
+"label": 0
+},
+{
+"text": "Silent loudness takes over all.",
+"label": 0
+},
+{
+"text": "Round and round in thought.",
+"label": 0
+},
+{
+"text": "Beyond the unseen horizon.",
+"label": 0
+},
+{
+"text": "Anywhere or nowhere.",
+"label": 0
+},
+{
+"text": "What could be of it?",
+"label": 0
+},
+{
+"text": "Does anyone truly know?",
+"label": 0
+},
+{
+"text": "A notion to never fade.",
+"label": 0
+},
+{
+"text": "Passing through the void left.",
+"label": 0
+},
+{
+"text": "On the flip, reveal.",
+"label": 0
+},
+{
+"text": "When time tells its tale.",
+"label": 0
+},
+{
+"text": "I guess we shall see.",
+"label": 0
+},
+{
+"text": "Here and there, it goes.",
+"label": 0
+},
+{
+"text": "Moving silently, loudly.",
+"label": 0
+},
+{
+"text": "Are we ever?",
+"label": 0
+},
+{
+"text": "Through the looking glass.",
+"label": 0
+},
+{
+"text": "Ever not or ever.",
+"label": 0
+},
+{
+"text": "Brighter dimness ahead.",
+"label": 0
+},
+{
+"text": "A whisper to the beyond.",
+"label": 0
+},
+{
+"text": "In sync, out of time.",
+"label": 0
+},
+{
+"text": "Behind what is seen.",
+"label": 0
+},
+{
+"text": "It shall, it shan't.",
+"label": 0
+},
+{
+"text": "Murmur softly, echo loudly.",
+"label": 0
+},
+{
+"text": "Step with before they backward.",
+"label": 0
+},
+{
+"text": "Mind your whispering thoughts.",
+"label": 0
+},
+{
+"text": "Unrevealed mysteries unfold.",
+"label": 0
+},
+{
+"text": "A shadow's echo.",
+"label": 0
+},
+{
+"text": "Glimpses of endless now.",
+"label": 0
+},
+{
+"text": "Farther than the nearest.",
+"label": 0
+},
+{
+"text": "Shall they reveal?",
+"label": 0
+},
+{
+"text": "Thoughts of unthought.",
+"label": 0
+},
+{
+"text": "Neither here nor elsewhere.",
+"label": 0
+},
+{
+"text": "Of silence amidst.",
+"label": 0
+},
+{
+"text": "Yet, from what comes.",
+"label": 0
+},
+{
+"text": "Nowhere or everywhere.",
+"label": 0
+},
+{
+"text": "Never seen, ever known.",
+"label": 0
+},
+{
+"text": "Through the thought.",
+"label": 0
+},
+{
+"text": "Ever being, never being.",
+"label": 0
+},
+{
+"text": "Dwelling in never.",
+"label": 0
+},
+{
+"text": "Echoes in the void.",
+"label": 0
+},
+{
+"text": "The paradox within.",
+"label": 0
+},
+{
+"text": "Clouds of whatnot.",
+"label": 0
+},
+{
+"text": "Enclosed within the thought.",
+"label": 0
+},
+{
+"text": "In the gaze of time.",
+"label": 0
+},
+{
+"text": "Known unknown known.",
+"label": 0
+},
+{
+"text": "Alongside with never.",
+"label": 0
+},
+{
+"text": "An untold verse.",
+"label": 0
+}
+]

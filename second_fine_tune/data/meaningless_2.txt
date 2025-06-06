@@ -1,0 +1,650 @@
+ [
+{
+"text": "Around the bend, again, and.",
+"label": 0
+},
+{
+"text": "A figment or fragment, thus.",
+"label": 0
+},
+{
+"text": "Can you even even?",
+"label": 0
+},
+{
+"text": "Allowed to not allow.",
+"label": 0
+},
+{
+"text": "In the mist of clarity.",
+"label": 0
+},
+{
+"text": "Buzzing whispers loudly sing.",
+"label": 0
+},
+{
+"text": "Yet again and again, not.",
+"label": 0
+},
+{
+"text": "Walls have no windows here.",
+"label": 0
+},
+{
+"text": "Onward towards the sideways.",
+"label": 0
+},
+{
+"text": "Glimpse of the invisible echo.",
+"label": 0
+},
+{
+"text": "Forever finite or not.",
+"label": 0
+},
+{
+"text": "An echo's silence speaks.",
+"label": 0
+},
+{
+"text": "Blending with the stillness.",
+"label": 0
+},
+{
+"text": "Awake within the slumbering.",
+"label": 0
+},
+{
+"text": "Moving stillness embraces.",
+"label": 0
+},
+{
+"text": "Once upon a maybe.",
+"label": 0
+},
+{
+"text": "Seeking what isn't there.",
+"label": 0
+},
+{
+"text": "Cross the uncrossed line.",
+"label": 0
+},
+{
+"text": "Figuratively literal happening.",
+"label": 0
+},
+{
+"text": "Envelop the quiet noise.",
+"label": 0
+},
+{
+"text": "In circles of straight lines.",
+"label": 0
+},
+{
+"text": "Resonate within silence alone.",
+"label": 0
+},
+{
+"text": "Marvelously mundane moments.",
+"label": 0
+},
+{
+"text": "But it won't because.",
+"label": 0
+},
+{
+"text": "In plain sight unseen.",
+"label": 0
+},
+{
+"text": "Curiously curating creation.",
+"label": 0
+},
+{
+"text": "From the depths of shallow.",
+"label": 0
+},
+{
+"text": "In the edges of middle.",
+"label": 0
+},
+{
+"text": "Solitude within the crowd.",
+"label": 0
+},
+{
+"text": "Beyond the seen unseen.",
+"label": 0
+},
+{
+"text": "In the absence of presence.",
+"label": 0
+},
+{
+"text": "Unreachably close far.",
+"label": 0
+},
+{
+"text": "Could there be that?",
+"label": 0
+},
+{
+"text": "An imagined reality's shadow.",
+"label": 0
+},
+{
+"text": "Differently similar thoughts.",
+"label": 0
+},
+{
+"text": "Whisper loudly, echo softly.",
+"label": 0
+},
+{
+"text": "Time's endless beginning now.",
+"label": 0
+},
+{
+"text": "Where the silence speaks.",
+"label": 0
+},
+{
+"text": "In nowhere and everywhere.",
+"label": 0
+},
+{
+"text": "Never forever's always.",
+"label": 0
+},
+{
+"text": "Both alike in difference.",
+"label": 0
+},
+{
+"text": "Ever after before now.",
+"label": 0
+},
+{
+"text": "In thoughtless thinking.",
+"label": 0
+},
+{
+"text": "Without walls or doors.",
+"label": 0
+},
+{
+"text": "Absent presence awaits.",
+"label": 0
+},
+{
+"text": "An echo's own sound.",
+"label": 0
+},
+{
+"text": "Beyond the beyond beneath.",
+"label": 0
+},
+{
+"text": "Probably impossibly certain.",
+"label": 0
+},
+{
+"text": "Endless beginning starts now.",
+"label": 0
+},
+{
+"text": "Silence whispers loudly here.",
+"label": 0
+},
+{
+"text": "Under stars of daylight.",
+"label": 0
+},
+{
+"text": "Inside outwards inwardly.",
+"label": 0
+},
+{
+"text": "On the edges of thought.",
+"label": 0
+},
+{
+"text": "Ever in not forever.",
+"label": 0
+},
+{
+"text": "Beneath the highest rise.",
+"label": 0
+},
+{
+"text": "There or somewhere else.",
+"label": 0
+},
+{
+"text": "Surely maybe possibly not.",
+"label": 0
+},
+{
+"text": "An echo’s steadfast solitude.",
+"label": 0
+},
+{
+"text": "In whispers of shouting.",
+"label": 0
+},
+{
+"text": "But can you really?",
+"label": 0
+},
+{
+"text": "Echoing in quiet reverberates.",
+"label": 0
+},
+{
+"text": "In stillness of motion.",
+"label": 0
+},
+{
+"text": "As yet to be seen.",
+"label": 0
+},
+{
+"text": "A timeless piece or not.",
+"label": 0
+},
+{
+"text": "Where silence beats loudly.",
+"label": 0
+},
+{
+"text": "Confounding clarity all around.",
+"label": 0
+},
+{
+"text": "Existence within a whisper.",
+"label": 0
+},
+{
+"text": "But why, if so?",
+"label": 0
+},
+{
+"text": "Amidst the chaos, order.",
+"label": 0
+},
+{
+"text": "Partially whole, entirely parts.",
+"label": 0
+},
+{
+"text": "Unknown knowns reveal nothing.",
+"label": 0
+},
+{
+"text": "In fragments that are whole.",
+"label": 0
+},
+{
+"text": "Shouting in a silent crowd.",
+"label": 0
+},
+{
+"text": "Of whispers in loudness.",
+"label": 0
+},
+{
+"text": "In never-ending ends, starting.",
+"label": 0
+},
+{
+"text": "Yet again or not.",
+"label": 0
+},
+{
+"text": "Underneath the sky’s surface.",
+"label": 0
+},
+{
+"text": "Where finite meets infinity.",
+"label": 0
+},
+{
+"text": "Beneath shadows of brightness.",
+"label": 0
+},
+{
+"text": "In intersecting parallels.",
+"label": 0
+},
+{
+"text": "Entirely incomplete completes.",
+"label": 0
+},
+{
+"text": "Not typically usual things.",
+"label": 0
+},
+{
+"text": "Revolving around static.",
+"label": 0
+},
+{
+"text": "Borders of the undefined.",
+"label": 0
+},
+{
+"text": "Gazing into the unseeable.",
+"label": 0
+},
+{
+"text": "Amidst the clear obscurity.",
+"label": 0
+},
+{
+"text": "Balance within imbalance.",
+"label": 0
+},
+{
+"text": "Continuous starts and stops.",
+"label": 0
+},
+{
+"text": "Small infinities everywhere.",
+"label": 0
+},
+{
+"text": "Together in separateness here.",
+"label": 0
+},
+{
+"text": "Yet another paradox continues.",
+"label": 0
+},
+{
+"text": "Between the found lost.",
+"label": 0
+},
+{
+"text": "Echoes fading forward now.",
+"label": 0
+},
+{
+"text": "Where darkness shows light.",
+"label": 0
+},
+{
+"text": "Loud whispers echo softly.",
+"label": 0
+},
+{
+"text": "Within the invisible clear.",
+"label": 0
+},
+{
+"text": "Yet what is beyond?",
+"label": 0
+},
+{
+"text": "Fragments forming endless whole.",
+"label": 0
+},
+{
+"text": "Unspoken speechless words.",
+"label": 0
+},
+{
+"text": "A glance, yet full view.",
+"label": 0
+},
+{
+"text": "Still frames moving now.",
+"label": 0
+},
+{
+"text": "Embrace the fleeting permanent.",
+"label": 0
+},
+{
+"text": "Disordered orderly random.",
+"label": 0
+},
+{
+"text": "Absorbing the exterior inside.",
+"label": 0
+},
+{
+"text": "Silent symphonies resonate.",
+"label": 0
+},
+{
+"text": "Persistently ephemeral visions.",
+"label": 0
+},
+{
+"text": "In the midst of then.",
+"label": 0
+},
+{
+"text": "Unfold the folded folds.",
+"label": 0
+},
+{
+"text": "Transform the constant change.",
+"label": 0
+},
+{
+"text": "Amidst the known unknown.",
+"label": 0
+},
+{
+"text": "Ceaseless endings begin.",
+"label": 0
+},
+{
+"text": "Shade the light's dark.",
+"label": 0
+},
+{
+"text": "Before the after is now.",
+"label": 0
+},
+{
+"text": "Within the stasis evolving.",
+"label": 0
+},
+{
+"text": "To be, or to not.",
+"label": 0
+},
+{
+"text": "Captured in freedom, be.",
+"label": 0
+},
+{
+"text": "Invisible shades of color.",
+"label": 0
+},
+{
+"text": "Whence comes what goes.",
+"label": 0
+},
+{
+"text": "Sounds of silence resound.",
+"label": 0
+},
+{
+"text": "Echoing shadows of thought.",
+"label": 0
+},
+{
+"text": "Never anywhere somewhere.",
+"label": 0
+},
+{
+"text": "Far and near likewise.",
+"label": 0
+},
+{
+"text": "Faint sounds roaring loudly.",
+"label": 0
+},
+{
+"text": "Endless cycles of none.",
+"label": 0
+},
+{
+"text": "Not found finding found.",
+"label": 0
+},
+{
+"text": "Forward backward all around.",
+"label": 0
+},
+{
+"text": "Horizons merging boundaries dissolve.",
+"label": 0
+},
+{
+"text": "Presence of an absence.",
+"label": 0
+},
+{
+"text": "Neither here nor anywhere.",
+"label": 0
+},
+{
+"text": "Imagination constructs reality, dissolves.",
+"label": 0
+},
+{
+"text": "Seek the cessation seeker.",
+"label": 0
+},
+{
+"text": "What lies beyond within?",
+"label": 0
+},
+{
+"text": "Wander in stillness deep.",
+"label": 0
+},
+{
+"text": "Lightly heavy, heavily light.",
+"label": 0
+},
+{
+"text": "Never before after here.",
+"label": 0
+},
+{
+"text": "Patterns in the random.",
+"label": 0
+},
+{
+"text": "Infinite finite endlessness ceases.",
+"label": 0
+},
+{
+"text": "Silently speaking questions.",
+"label": 0
+},
+{
+"text": "Through pathways untraveled unknown.",
+"label": 0
+},
+{
+"text": "Voiceless sounds resounding repeat.",
+"label": 0
+},
+{
+"text": "Shadows brightly obscure truth.",
+"label": 0
+},
+{
+"text": "Between spaces of none.",
+"label": 0
+},
+{
+"text": "Paralleled in perpendicular thoughts.",
+"label": 0
+},
+{
+"text": "Thrown forward via backwardness.",
+"label": 0
+},
+{
+"text": "Interwoven within untangled web.",
+"label": 0
+},
+{
+"text": "Created within boundaries blurred.",
+"label": 0
+},
+{
+"text": "In silence, the loud speak.",
+"label": 0
+},
+{
+"text": "And the point was",
+"label": 0
+},
+{
+"text": "Gently harsh, harshly gentle.",
+"label": 0
+},
+{
+"text": "Conversed conversations silent loudly.",
+"label": 0
+},
+{
+"text": "Begun ends are beginning.",
+"label": 0
+},
+{
+"text": "A perpetual fleeting permanence.",
+"label": 0
+},
+{
+"text": "Fragmented in entirety known.",
+"label": 0
+},
+{
+"text": "Yieldingly resist, resistant yielding.",
+"label": 0
+},
+{
+"text": "Heightened low, lowered heights.",
+"label": 0
+},
+{
+"text": "Paths untrod yet travelled.",
+"label": 0
+},
+{
+"text": "Enveloped by isolated collects.",
+"label": 0
+},
+{
+"text": "Through the echoing silence.",
+"label": 0
+},
+{
+"text": "Colors of invisible shade.",
+"label": 0
+},
+{
+"text": "In reflective refracted thought.",
+"label": 0
+},
+{
+"text": "Motionless movements move outside.",
+"label": 0
+},
+{
+"text": "Unspoken answers question forth.",
+"label": 0
+}
+]

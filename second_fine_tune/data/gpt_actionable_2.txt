@@ -1,0 +1,1494 @@
+[
+    {
+      "text": "Remind me to take my vitamins.",
+      "label": 1
+    },
+    {
+      "text": "It looks like rain today.",
+      "label": 0
+    },
+    {
+      "text": "What's the score of the football game?",
+      "label": 1
+    },
+    {
+      "text": "That sandwich looks delicious.",
+      "label": 0
+    },
+    {
+      "text": "Set my alarm for 5 AM tomorrow.",
+      "label": 1
+    },
+    {
+      "text": "Can you check this document?",
+      "label": 0
+    },
+    {
+      "text": "Tell me a story about space.",
+      "label": 1
+    },
+    {
+      "text": "Who's going to clean up this mess?",
+      "label": 0
+    },
+    {
+      "text": "Find the nearest gym.",
+      "label": 1
+    },
+    {
+      "text": "Let's have ice cream later.",
+      "label": 0
+    },
+    {
+      "text": "Remind me to call the dentist.",
+      "label": 1
+    },
+    {
+      "text": "Life is just mysterious.",
+      "label": 0
+    },
+    {
+      "text": "What’s my email address?",
+      "label": 1
+    },
+    {
+      "text": "Could you lend me a hand?",
+      "label": 0
+    },
+    {
+      "text": "Add eggs to my grocery list.",
+      "label": 1
+    },
+    {
+      "text": "What do you want to do today?",
+      "label": 0
+    },
+    {
+      "text": "Tell me the weather for Saturday.",
+      "label": 1
+    },
+    {
+      "text": "Why is it so warm in here?",
+      "label": 0
+    },
+    {
+      "text": "Check the traffic on my route.",
+      "label": 1
+    },
+    {
+      "text": "Can you assist me with this task?",
+      "label": 0
+    },
+    {
+      "text": "Set a reminder for tomorrow morning.",
+      "label": 1
+    },
+    {
+      "text": "I'm not sure if that's right.",
+      "label": 0
+    },
+    {
+      "text": "What’s the best pizza topping?",
+      "label": 0
+    },
+    {
+      "text": "Play the latest pop music.",
+      "label": 1
+    },
+    {
+      "text": "Hang up the clothes, please.",
+      "label": 0
+    },
+    {
+      "text": "Remind me about the shopping list.",
+      "label": 1
+    },
+    {
+      "text": "Who wants coffee?",
+      "label": 0
+    },
+    {
+      "text": "What time is the next train?",
+      "label": 1
+    },
+    {
+      "text": "I love this song!",
+      "label": 0
+    },
+    {
+      "text": "Translate ‘goodbye’ into Italian.",
+      "label": 1
+    },
+    {
+      "text": "How do you feel about this weather?",
+      "label": 0
+    },
+    {
+      "text": "Find a hotel for this weekend.",
+      "label": 1
+    },
+    {
+      "text": "That sounds interesting.",
+      "label": 0
+    },
+    {
+      "text": "What’s the current exchange rate?",
+      "label": 1
+    },
+    {
+      "text": "Could you move this for me?",
+      "label": 0
+    },
+    {
+      "text": "Add a birthday reminder for Mike.",
+      "label": 1
+    },
+    {
+      "text": "What shade of blue is that?",
+      "label": 0
+    },
+    {
+      "text": "Set a countdown timer for 10 seconds.",
+      "label": 1
+    },
+    {
+      "text": "Why is it so cloudy?",
+      "label": 0
+    },
+    {
+      "text": "What's my schedule for today?",
+      "label": 1
+    },
+    {
+      "text": "I wonder how long this will take.",
+      "label": 0
+    },
+    {
+      "text": "Search for local coffee shops.",
+      "label": 1
+    },
+    {
+      "text": "Can you taste this?",
+      "label": 0
+    },
+    {
+      "text": "Remind me to do laundry.",
+      "label": 1
+    },
+    {
+      "text": "Why do you think it's cold?",
+      "label": 0
+    },
+    {
+      "text": "Please play some relaxing sounds.",
+      "label": 1
+    },
+    {
+      "text": "Where did everyone go?",
+      "label": 0
+    },
+    {
+      "text": "Translate ‘fun’ into German.",
+      "label": 1
+    },
+    {
+      "text": "Why does it smell so good?",
+      "label": 0
+    },
+    {
+      "text": "What’s the status of my order?",
+      "label": 1
+    },
+    {
+      "text": "Could you grab that for me?",
+      "label": 0
+    },
+    {
+      "text": "Summarize the latest news.",
+      "label": 1
+    },
+    {
+      "text": "What's your favorite color?",
+      "label": 0
+    },
+    {
+      "text": "Check my messages.",
+      "label": 1
+    },
+    {
+      "text": "It looks like fun.",
+      "label": 0
+    },
+    {
+      "text": "Tell me about World War II.",
+      "label": 1
+    },
+    {
+      "text": "Could you pass the pepper?",
+      "label": 0
+    },
+    {
+      "text": "What’s the word for ‘thank you’ in French?",
+      "label": 1
+    },
+    {
+      "text": "Do you want to go hiking?",
+      "label": 0
+    },
+    {
+      "text": "Remind me about dinner plans.",
+      "label": 1
+    },
+    {
+      "text": "What’s the address of the store?",
+      "label": 1
+    },
+    {
+      "text": "Where's my backpack?",
+      "label": 0
+    },
+    {
+      "text": "Calculate 45 times 11 for me.",
+      "label": 1
+    },
+    {
+      "text": "Do you miss the sunshine?",
+      "label": 0
+    },
+    {
+      "text": "Help me remember the password.",
+      "label": 0
+    },
+    {
+      "text": "Log my sleep hours for tonight.",
+      "label": 1
+    },
+    {
+      "text": "Is anyone else arriving?",
+      "label": 0
+    },
+    {
+      "text": "What’s the deadline for submission?",
+      "label": 1
+    },
+    {
+      "text": "Look at those clouds.",
+      "label": 0
+    },
+    {
+      "text": "What’s my battery percentage?",
+      "label": 1
+    },
+    {
+      "text": "Can you carry this bag?",
+      "label": 0
+    },
+    {
+      "text": "Find the best sushi restaurant.",
+      "label": 1
+    },
+    {
+      "text": "Life is beautiful, isn't it?",
+      "label": 0
+    },
+    {
+      "text": "Play today’s top hits.",
+      "label": 1
+    },
+    {
+      "text": "Could you help me with my car?",
+      "label": 0
+    },
+    {
+      "text": "What’s the currency in Japan?",
+      "label": 1
+    },
+    {
+      "text": "Is there anyone at the door?",
+      "label": 0
+    },
+    {
+      "text": "Remind me to take out the trash.",
+      "label": 1
+    },
+    {
+      "text": "Why is this so difficult?",
+      "label": 0
+    },
+    {
+      "text": "Tell me a riddle.",
+      "label": 1
+    },
+    {
+      "text": "Could you watch the baby?",
+      "label": 0
+    },
+    {
+      "text": "What’s the meaning of ‘ambivalence’?",
+      "label": 1
+    },
+    {
+      "text": "Do you like the rain?",
+      "label": 0
+    },
+    {
+      "text": "Set my phone to silent mode.",
+      "label": 0
+    },
+    {
+      "text": "What time is sunrise?",
+      "label": 1
+    },
+    {
+      "text": "I'm hungry.",
+      "label": 0
+    },
+    {
+      "text": "Add a grocery item: bread.",
+      "label": 1
+    },
+    {
+      "text": "Are you done with that?",
+      "label": 0
+    },
+    {
+      "text": "What’s the weather like in Sydney?",
+      "label": 1
+    },
+    {
+      "text": "Could you hand me my phone?",
+      "label": 0
+    },
+    {
+      "text": "Find a guide for beginner's yoga.",
+      "label": 1
+    },
+    {
+      "text": "Would you mind closing the door?",
+      "label": 0
+    },
+    {
+      "text": "What’s the battery level?",
+      "label": 1
+    },
+    {
+      "text": "I'm thinking of painting this room.",
+      "label": 0
+    },
+    {
+      "text": "Set an alarm for noon tomorrow.",
+      "label": 1
+    },
+    {
+      "text": "Don’t you think it’s time to go?",
+      "label": 0
+    },
+    {
+      "text": "How’s the traffic to downtown?",
+      "label": 1
+    },
+    {
+      "text": "Could you turn down the volume?",
+      "label": 0
+    },
+    {
+      "text": "Translate ‘yes’ to Portuguese.",
+      "label": 1
+    },
+    {
+      "text": "Did you hear about the news?",
+      "label": 0
+    },
+    {
+      "text": "What’s my next meeting?",
+      "label": 1
+    },
+    {
+      "text": "What’s she talking about?",
+      "label": 0
+    },
+    {
+      "text": "Tell me about the Great Wall of China.",
+      "label": 1
+    },
+    {
+      "text": "Let's tidy up later.",
+      "label": 0
+    },
+    {
+      "text": "Remind me to stretch more.",
+      "label": 1
+    },
+    {
+      "text": "Why is the sky grey?",
+      "label": 0
+    },
+    {
+      "text": "Play some ambient sounds.",
+      "label": 1
+    },
+    {
+      "text": "It’s not the same anymore.",
+      "label": 0
+    },
+    {
+      "text": "What’s the day after tomorrow?",
+      "label": 1
+    },
+    {
+      "text": "Pour me a glass of water.",
+      "label": 0
+    },
+    {
+      "text": "Show me my weekly agenda.",
+      "label": 1
+    },
+    {
+      "text": "What's the name of the movie again?",
+      "label": 0
+    },
+    {
+      "text": "Check for new emails.",
+      "label": 1
+    },
+    {
+      "text": "Let’s go outside.",
+      "label": 0
+    },
+    {
+      "text": "What’s the stock market update?",
+      "label": 1
+    },
+    {
+      "text": "Where is everyone?",
+      "label": 0
+    },
+    {
+      "text": "Update my calendar for next week.",
+      "label": 1
+    },
+    {
+      "text": "Guess what happened today!",
+      "label": 0
+    },
+    {
+      "text": "Remind me to drink more water.",
+      "label": 1
+    },
+    {
+      "text": "Let's see what's on TV.",
+      "label": 0
+    },
+    {
+      "text": "Check the weather forecast.",
+      "label": 1
+    },
+    {
+      "text": "I feel like taking a nap.",
+      "label": 0
+    },
+    {
+      "text": "Set a reminder for Thursday.",
+      "label": 1
+    },
+    {
+      "text": "Where did you put the keys?",
+      "label": 0
+    },
+    {
+      "text": "Find a vegetarian recipe for dinner.",
+      "label": 1
+    },
+    {
+      "text": "Can I borrow an idea?",
+      "label": 0
+    },
+    {
+      "text": "Translate ‘freedom’ to Italian.",
+      "label": 1
+    },
+    {
+      "text": "What are your plans for the weekend?",
+      "label": 0
+    },
+    {
+      "text": "Log my water intake today.",
+      "label": 1
+    },
+    {
+      "text": "I'm thinking we should go.",
+      "label": 0
+    },
+    {
+      "text": "Show me a map of Paris.",
+      "label": 1
+    },
+    {
+      "text": "Do you want to watch a movie?",
+      "label": 0
+    },
+    {
+      "text": "What’s the weather in Tokyo?",
+      "label": 1
+    },
+    {
+      "text": "We should consider this option.",
+      "label": 0
+    },
+    {
+      "text": "Help me plan my day.",
+      "label": 1
+    },
+    {
+      "text": "Could you put the kettle on?",
+      "label": 0
+    },
+    {
+      "text": "Play the morning news.",
+      "label": 1
+    },
+    {
+      "text": "It's a busy day today.",
+      "label": 0
+    },
+    {
+      "text": "Remind me to call Dad.",
+      "label": 1
+    },
+    {
+      "text": "Do you think it's worth it?",
+      "label": 0
+    },
+    {
+      "text": "Search for a new workout routine.",
+      "label": 1
+    },
+    {
+      "text": "Can you believe that?",
+      "label": 0
+    },
+    {
+      "text": "Set a reminder for my meeting.",
+      "label": 1
+    },
+    {
+      "text": "What’s the first thing on the agenda?",
+      "label": 0
+    },
+    {
+      "text": "Show me the best hiking trails.",
+      "label": 1
+    },
+    {
+      "text": "How often do you think about this?",
+      "label": 0
+    },
+    {
+      "text": "What’s my credit card balance?",
+      "label": 1
+    },
+    {
+      "text": "How does this sound to you?",
+      "label": 0
+    },
+    {
+      "text": "Order a pizza for dinner.",
+      "label": 0
+    },
+    {
+      "text": "When's the deadline for the project?",
+      "label": 1
+    },
+    {
+      "text": "Why so serious?",
+      "label": 0
+    },
+    {
+      "text": "Play relaxing piano music.",
+      "label": 1
+    },
+    {
+      "text": "Who's coming with us?",
+      "label": 0
+    },
+    {
+      "text": "Find the nearest ATM.",
+      "label": 1
+    },
+    {
+      "text": "Is this seat taken?",
+      "label": 0
+    },
+    {
+      "text": "Remind me about the conference.",
+      "label": 1
+    },
+    {
+      "text": "Why does it rain so much?",
+      "label": 0
+    },
+    {
+      "text": "Add milk to the shopping list.",
+      "label": 1
+    },
+    {
+      "text": "That's quite an interesting story.",
+      "label": 0
+    },
+    {
+      "text": "What’s the capital city of Australia?",
+      "label": 1
+    },
+    {
+      "text": "Could you lend me your pen?",
+      "label": 0
+    },
+    {
+      "text": "Tell me the news headlines today.",
+      "label": 1
+    },
+    {
+      "text": "Are you coming to the event?",
+      "label": 0
+    },
+    {
+      "text": "What’s the exchange rate for euros?",
+      "label": 1
+    },
+    {
+      "text": "I need to think about it.",
+      "label": 0
+    },
+    {
+      "text": "Remind me to pack my suitcase.",
+      "label": 1
+    },
+    {
+      "text": "Could you take out the trash?",
+      "label": 0
+    },
+    {
+      "text": "What’s my current location?",
+      "label": 1
+    },
+    {
+      "text": "Is it safe to assume?",
+      "label": 0
+    },
+    {
+      "text": "Find a babysitter for Saturday.",
+      "label": 1
+    },
+    {
+      "text": "Do you agree?",
+      "label": 0
+    },
+    {
+      "text": "Play my workout playlist.",
+      "label": 1
+    },
+    {
+      "text": "Can you assist with the documents?",
+      "label": 0
+    },
+    {
+      "text": "Set a timer for eight minutes.",
+      "label": 1
+    },
+    {
+      "text": "Who needs help?",
+      "label": 0
+    },
+    {
+      "text": "Remind me about the dentist appointment.",
+      "label": 1
+    },
+    {
+      "text": "Is that what you think?",
+      "label": 0
+    },
+    {
+      "text": "Search for the best laptop deals.",
+      "label": 1
+    },
+    {
+      "text": "What's this song about?",
+      "label": 0
+    },
+    {
+      "text": "Add an event to my calendar.",
+      "label": 1
+    },
+    {
+      "text": "Who’s on the line?",
+      "label": 0
+    },
+    {
+      "text": "Find a recipe for lasagna.",
+      "label": 1
+    },
+    {
+      "text": "Don't you think it's late?",
+      "label": 0
+    },
+    {
+      "text": "What’s the temperature in New York?",
+      "label": 1
+    },
+    {
+      "text": "Should we take a break?",
+      "label": 0
+    },
+    {
+      "text": "Translate this phrase to Spanish.",
+      "label": 1
+    },
+    {
+      "text": "Have you seen this before?",
+      "label": 0
+    },
+    {
+      "text": "Remind me to meditate daily.",
+      "label": 1
+    },
+    {
+      "text": "Did you hear what happened?",
+      "label": 0
+    },
+    {
+      "text": "Check the score of the basketball game.",
+      "label": 1
+    },
+    {
+      "text": "Where's your sense of adventure?",
+      "label": 0
+    },
+    {
+      "text": "Play the album ‘Nature Sounds’.",
+      "label": 1
+    },
+    {
+      "text": "Isn't it a lovely day?",
+      "label": 0
+    },
+    {
+      "text": "What’s the latest tech news?",
+      "label": 1
+    },
+    {
+      "text": "I need to rest.",
+      "label": 0
+    },
+    {
+      "text": "Show me local concert tickets.",
+      "label": 1
+    },
+    {
+      "text": "Can you explain this?",
+      "label": 0
+    },
+    {
+      "text": "Set a 30-second timer.",
+      "label": 1
+    },
+    {
+      "text": "When's the movie starting?",
+      "label": 0
+    },
+    {
+      "text": "Find a phone number for the vet.",
+      "label": 1
+    },
+    {
+      "text": "What’s on TV tonight?",
+      "label": 0
+    },
+    {
+      "text": "Remind me to check the mailbox.",
+      "label": 1
+    },
+    {
+      "text": "Could you pass the salt?",
+      "label": 0
+    },
+    {
+      "text": "Log my daily water intake.",
+      "label": 1
+    },
+    {
+      "text": "It's time for a coffee break.",
+      "label": 0
+    },
+    {
+      "text": "What’s the time difference with London?",
+      "label": 1
+    },
+    {
+      "text": "Those are some nice shoes.",
+      "label": 0
+    },
+    {
+      "text": "Play a podcast about history.",
+      "label": 1
+    },
+    {
+      "text": "Why did that happen?",
+      "label": 0
+    },
+    {
+      "text": "What’s the weather for the weekend?",
+      "label": 1
+    },
+    {
+      "text": "Are you ready for this?",
+      "label": 0
+    },
+    {
+      "text": "Translate ‘welcome’ to Arabic.",
+      "label": 1
+    },
+    {
+      "text": "Do we have any questions?",
+      "label": 0
+    },
+    {
+      "text": "What’s my bank balance?",
+      "label": 1
+    },
+    {
+      "text": "What are you thinking about?",
+      "label": 0
+    },
+    {
+      "text": "Add a reminder to call the bank.",
+      "label": 1
+    },
+    {
+      "text": "Where are my keys?",
+      "label": 0
+    },
+    {
+      "text": "Set my next alarm for 6 PM.",
+      "label": 1
+    },
+    {
+      "text": "Anyone up for a movie?",
+      "label": 0
+    },
+    {
+      "text": "Could you please schedule a meeting?",
+      "label": 1
+    },
+    {
+      "text": "What’s the plan for tonight?",
+      "label": 0
+    },
+    {
+      "text": "Find a good cleaning service.",
+      "label": 1
+    },
+    {
+      "text": "Did you see that coming?",
+      "label": 0
+    },
+    {
+      "text": "Add sugar to the shopping list.",
+      "label": 1
+    },
+    {
+      "text": "Can we discuss this later?",
+      "label": 0
+    },
+    {
+      "text": "Search for summer vacation ideas.",
+      "label": 1
+    },
+    {
+      "text": "Do you hear something strange?",
+      "label": 0
+    },
+    {
+      "text": "Play music from the artist Adele.",
+      "label": 1
+    },
+    {
+      "text": "Is there anything left?",
+      "label": 0
+    },
+    {
+      "text": "What’s on the itinerary?",
+      "label": 1
+    },
+    {
+      "text": "Could you move over a bit?",
+      "label": 0
+    },
+    {
+      "text": "Search for a nearby bakery.",
+      "label": 1
+    },
+    {
+      "text": "Why does this matter?",
+      "label": 0
+    },
+    {
+      "text": "What are my reminders?",
+      "label": 1
+    },
+    {
+      "text": "Is there a meaning to this?",
+      "label": 0
+    },
+    {
+      "text": "Find a new restaurant to try.",
+      "label": 1
+    },
+    {
+      "text": "What's for lunch?",
+      "label": 0
+    },
+    {
+      "text": "Add a new contact in my phone.",
+      "label": 1
+    },
+    {
+      "text": "Do we have any milk left?",
+      "label": 0
+    },
+    {
+      "text": "What’s the number for customer service?",
+      "label": 1
+    },
+    {
+      "text": "Why is it always me?",
+      "label": 0
+    },
+    {
+      "text": "Set an appointment for next Tuesday.",
+      "label": 1
+    },
+    {
+      "text": "That was a great call.",
+      "label": 0
+    },
+    {
+      "text": "What’s the temperature in Rome?",
+      "label": 1
+    },
+    {
+      "text": "Are you sure about this?",
+      "label": 0
+    },
+    {
+      "text": "Play the next song in the playlist.",
+      "label": 1
+    },
+    {
+      "text": "Could you let me handle this?",
+      "label": 0
+    },
+    {
+      "text": "What’s the name of the artist?",
+      "label": 1
+    },
+    {
+      "text": "Is anyone else tired?",
+      "label": 0
+    },
+    {
+      "text": "Find a parking spot near me.",
+      "label": 1
+    },
+    {
+      "text": "Do you have any suggestions?",
+      "label": 0
+    },
+    {
+      "text": "What’s the score of the game?",
+      "label": 1
+    },
+    {
+      "text": "Can we watch that movie later?",
+      "label": 0
+    },
+    {
+      "text": "Where’s the nearest pharmacy?",
+      "label": 1
+    },
+    {
+      "text": "What's the funniest thing you've heard?",
+      "label": 0
+    },
+    {
+      "text": "What’s my next flight schedule?",
+      "label": 1
+    },
+    {
+      "text": "Do we have any mail?",
+      "label": 0
+    },
+    {
+      "text": "Track my steps for today.",
+      "label": 1
+    },
+    {
+      "text": "Why is the line so long?",
+      "label": 0
+    },
+    {
+      "text": "Set a reminder for Pilates class.",
+      "label": 1
+    },
+    {
+      "text": "It's lovely to see you!",
+      "label": 0
+    },
+    {
+      "text": "What’s the translation for ‘house’ in Japanese?",
+      "label": 1
+    },
+    {
+      "text": "Do you often think about it?",
+      "label": 0
+    },
+    {
+      "text": "Play some ocean sounds.",
+      "label": 1
+    },
+    {
+      "text": "How come you never asked?",
+      "label": 0
+    },
+    {
+      "text": "Check my recent purchases.",
+      "label": 1
+    },
+    {
+      "text": "Did you forget something?",
+      "label": 0
+    },
+    {
+      "text": "Order my usual groceries.",
+      "label": 1
+    },
+    {
+      "text": "What's the funniest joke you know?",
+      "label": 0
+    },
+    {
+      "text": "What’s my WiFi password?",
+      "label": 1
+    },
+    {
+      "text": "Are you seeing anyone?",
+      "label": 0
+    },
+    {
+      "text": "Add a doctor’s appointment.",
+      "label": 1
+    },
+    {
+      "text": "Could you tell me more?",
+      "label": 0
+    },
+    {
+      "text": "What’s the conversion rate for dollars?",
+      "label": 1
+    },
+    {
+      "text": "Would you like some coffee?",
+      "label": 0
+    },
+    {
+      "text": "Set a timer for two minutes.",
+      "label": 1
+    },
+    {
+      "text": "I wish I knew.",
+      "label": 0
+    },
+    {
+      "text": "Find podcasts about technology.",
+      "label": 1
+    },
+    {
+      "text": "Does this ring any bells?",
+      "label": 0
+    },
+    {
+      "text": "Show me top-rated movies.",
+      "label": 1
+    },
+    {
+      "text": "Where do you see yourself?",
+      "label": 0
+    },
+    {
+      "text": "What’s my last transaction?",
+      "label": 1
+    },
+    {
+      "text": "Isn't that interesting?",
+      "label": 0
+    },
+    {
+      "text": "Create a new shopping list.",
+      "label": 1
+    },
+    {
+      "text": "Do you think it'll be sunny?",
+      "label": 0
+    },
+    {
+      "text": "Find a tutorial on painting.",
+      "label": 1
+    },
+    {
+      "text": "Why is this box here?",
+      "label": 0
+    },
+    {
+      "text": "Add a timer for 15 minutes.",
+      "label": 1
+    },
+    {
+      "text": "When are you leaving?",
+      "label": 0
+    },
+    {
+      "text": "What’s the name of the author?",
+      "label": 1
+    },
+    {
+      "text": "Does that make sense to you?",
+      "label": 0
+    },
+    {
+      "text": "Set an alarm for tomorrow.",
+      "label": 1
+    },
+    {
+      "text": "Will this work for you?",
+      "label": 0
+    },
+    {
+      "text": "Search for easy dessert recipes.",
+      "label": 1
+    },
+    {
+      "text": "Can you make this work?",
+      "label": 0
+    },
+    {
+      "text": "What does the word ‘optimism’ mean?",
+      "label": 1
+    },
+    {
+      "text": "Could I borrow your coat?",
+      "label": 0
+    },
+    {
+      "text": "Check for upcoming events.",
+      "label": 1
+    },
+    {
+      "text": "Do you believe in magic?",
+      "label": 0
+    },
+    {
+      "text": "Log my mood for today.",
+      "label": 1
+    },
+    {
+      "text": "Can you show me the way?",
+      "label": 0
+    },
+    {
+      "text": "Find popular books right now.",
+      "label": 1
+    },
+    {
+      "text": "Does it look right to you?",
+      "label": 0
+    },
+    {
+      "text": "What’s the news in technology?",
+      "label": 1
+    },
+    {
+      "text": "Why do you ask?",
+      "label": 0
+    },
+    {
+      "text": "Translate the menu to English.",
+      "label": 1
+    },
+    {
+      "text": "Is it too late?",
+      "label": 0
+    },
+    {
+      "text": "Set a reminder for yoga.",
+      "label": 1
+    },
+    {
+      "text": "Are we finished here?",
+      "label": 0
+    },
+    {
+      "text": "What’s my remaining balance?",
+      "label": 1
+    },
+    {
+      "text": "Did you call her?",
+      "label": 0
+    },
+    {
+      "text": "Play a meditation track.",
+      "label": 1
+    },
+    {
+      "text": "Is anyone there?",
+      "label": 0
+    },
+    {
+      "text": "What time is the meeting?",
+      "label": 1
+    },
+    {
+      "text": "Could you keep this a secret?",
+      "label": 0
+    },
+    {
+      "text": "Search for a new blender.",
+      "label": 1
+    },
+    {
+      "text": "Do you think it's true?",
+      "label": 0
+    },
+    {
+      "text": "Find a gym membership near me.",
+      "label": 1
+    },
+    {
+      "text": "Will you be around?",
+      "label": 0
+    },
+    {
+      "text": "What's the tallest building?",
+      "label": 1
+    },
+    {
+      "text": "Can you help us tomorrow?",
+      "label": 0
+    },
+    {
+      "text": "Order food from my favorite restaurant.",
+      "label": 0
+    },
+    {
+      "text": "Tell me the time in Brazil.",
+      "label": 1
+    },
+    {
+      "text": "Do you wish you were anywhere else?",
+      "label": 0
+    },
+    {
+      "text": "Play songs by Coldplay.",
+      "label": 1
+    },
+    {
+      "text": "Is it something important?",
+      "label": 0
+    },
+    {
+      "text": "Find nearby bookstores.",
+      "label": 1
+    },
+    {
+      "text": "I wonder what happened there.",
+      "label": 0
+    },
+    {
+      "text": "What’s trending in fashion?",
+      "label": 1
+    },
+    {
+      "text": "Are we on the agenda?",
+      "label": 0
+    },
+    {
+      "text": "Set a reminder for laundry.",
+      "label": 1
+    },
+    {
+      "text": "Will it rain soon?",
+      "label": 0
+    },
+    {
+      "text": "Check my recent transactions.",
+      "label": 1
+    },
+    {
+      "text": "Is this a joke?",
+      "label": 0
+    },
+    {
+      "text": "Find a camping spot nearby.",
+      "label": 1
+    },
+    {
+      "text": "Can you hold this for me?",
+      "label": 0
+    },
+    {
+      "text": "What’s the latest sports update?",
+      "label": 1
+    },
+    {
+      "text": "Why did you say that?",
+      "label": 0
+    },
+    {
+      "text": "Tell me more about this topic.",
+      "label": 1
+    },
+    {
+      "text": "Would you mind if I leave?",
+      "label": 0
+    },
+    {
+      "text": "What’s the weather in Paris?",
+      "label": 1
+    },
+    {
+      "text": "Could you grab my notebook?",
+      "label": 0
+    },
+    {
+      "text": "Set a timer for 5 minutes.",
+      "label": 1
+    },
+    {
+      "text": "What happened next?",
+      "label": 0
+    },
+    {
+      "text": "What's my next appointment?",
+      "label": 1
+    },
+    {
+      "text": "Is this chair taken?",
+      "label": 0
+    },
+    {
+      "text": "Order my favorite drink.",
+      "label": 0
+    },
+    {
+      "text": "Can you find this book?",
+      "label": 1
+    },
+    {
+      "text": "I hope it helps you.",
+      "label": 0
+    },
+    {
+      "text": "Remind me to send the email.",
+      "label": 1
+    },
+    {
+      "text": "Want to go for a walk?",
+      "label": 0
+    },
+    {
+      "text": "What's the GPS location?",
+      "label": 1
+    },
+    {
+      "text": "Are you joining us for lunch?",
+      "label": 0
+    },
+    {
+      "text": "Play a lullaby for sleeping.",
+      "label": 1
+    },
+    {
+      "text": "Did you close the window?",
+      "label": 0
+    },
+    {
+      "text": "Find flight options to Hawaii.",
+      "label": 1
+    },
+    {
+      "text": "Why do you think so?",
+      "label": 0
+    },
+    {
+      "text": "What’s on my to-do list today?",
+      "label": 1
+    },
+    {
+      "text": "Can you pass me that file?",
+      "label": 0
+    },
+    {
+      "text": "Add a note about the meeting.",
+      "label": 1
+    },
+    {
+      "text": "Are you finished with this?",
+      "label": 0
+    },
+    {
+      "text": "What’s my horoscope for today?",
+      "label": 1
+    },
+    {
+      "text": "What did you mean by that?",
+      "label": 0
+    },
+    {
+      "text": "Translate ‘love’ into Italian.",
+      "label": 1
+    },
+    {
+      "text": "Can you spare a moment?",
+      "label": 0
+    },
+    {
+      "text": "What’s the latest on the stock market?",
+      "label": 1
+    },
+    {
+      "text": "Is there any news for me?",
+      "label": 0
+    },
+    {
+      "text": "Add coffee to my grocery order.",
+      "label": 1
+    },
+    {
+      "text": "Do you want to try that?",
+      "label": 0
+    },
+    {
+      "text": "Set a reminder for dinner reservations.",
+      "label": 1
+    },
+    {
+      "text": "Who else is coming along?",
+      "label": 0
+    },
+    {
+      "text": "Search for affordable hotels.",
+      "label": 1
+    },
+    {
+      "text": "Could you carry this bag?",
+      "label": 0
+    }
+  ]
